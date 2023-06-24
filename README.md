@@ -5,7 +5,7 @@
 > - Directorio de profesionales y negocios locales y regionales.
 > - Tecnologías: | PHP | Mysql | API Rest |
 - [Plataforma Web](http://vendoguaymas.com/index.php)
-- [Aplicación Móvil]()
+- [Aplicación Móvil]
 
 ## Hangman / Ahorcado
 > - Clásico juego de Ahorcado o Hangman.
@@ -27,6 +27,7 @@
 > - Aplicación de multiples mini juegos.
 > - Juegos Incluidos: | Coinflip | Vikings | ExplosionEmojis | Puzzle | Wordfind | SomonSay | DotsBoxes | Tetris | Snake | Basta | Memorama | Gato | Lottery |
 - En Desarrollo
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 
 ## Kabla / Certum
 > - Aplicación de multiples mini juegos.
@@ -39,15 +40,24 @@
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
 > - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
 - En Desarrollo
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 
 ## El Pirata Nadie
 > - Es una aplicación para encontrar tesoros.
 > - Patrocinadores de la marca, regalan tesoros (Descuentos en tiendas, Artículos para Gadgets, etc.), y que los exploradores pasen un agradable fin de semana en las búsquedas del Tesoro.
 > - Tecnologías: | React Native | Node JS | MySQL | REST API|
 - Deprecado
-
-
-
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
+- [Apple Store]()
+- 
+## My Taxy - Customer/Driver
+> - Aplicación para el cliente puede ver a los taxistas activos en el mapa,
+trazar ruta y pedir un taxi.
+> - Aplicación para el taxista, la cual siempre que está activo se muestra en
+el mapa.
+> - Tecnologías: | Java | MVP | MySQL | REST API|
+- Deprecado
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 
 
 
