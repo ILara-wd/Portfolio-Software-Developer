@@ -6,7 +6,7 @@
 - [Web Site](http://warriorsdev.com)
 <br>
 
-| <img src="screenshot/aklgames/e7e690b8-bfab-4655-ad9c-ff73ed8c7511.png"> |
+| <img src="screenshot/wordpress/e7e690b8-bfab-4655-ad9c-ff73ed8c7511.png"> |
 | ---------------------------------------------- |
 
 ## FS Engineering & Consulting
@@ -15,7 +15,7 @@
 - [Web Site](http://fs-ec.mx/inicio/)
 <br>
 
-| <img src="screenshot/aklgames/f95ac670-1272-11ee-be56-0242ac120002.png"> |
+| <img src="screenshot/wordpress/f95ac670-1272-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- |
 
 ## SI XPRESS SA DE CV
@@ -24,7 +24,7 @@
 - [Web Site](http://sixpress.mx)
 <br>
 
-| <img src="screenshot/aklgames/0bf0f83a-1274-11ee-be56-0242ac120002.png"> |
+| <img src="screenshot/wordpress/0bf0f83a-1274-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- |
 
 ## Vendo Guaymas
@@ -35,7 +35,7 @@
 - [Aplicación Móvil]()
 <br>
 
-| <img src="screenshot/aklgames/fc95a8fa-1272-11ee-be56-0242ac120002.png"> |
+| <img src="screenshot/wordpress/fc95a8fa-1272-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- |
 
 ## Kabla / Certum
