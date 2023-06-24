@@ -35,7 +35,8 @@
 - [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
 - [Dashboard - QA](http://certum.warriorsdev.com/login.php)
 
-
-
-
-
+## InOut Registros
+> - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
+> - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
+- En Desarrollo
+- 
