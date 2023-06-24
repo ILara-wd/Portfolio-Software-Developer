@@ -1,11 +1,16 @@
 # Portafolio - Software Developer
 
+## WarriorsDev
+> - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
+> - Tecnologías: | HTML | CSS | Javascript | PHP | MySQL |
+- [Web Site](http://warriorsdev.com)
+
 ## Vendo Guaymas
 > - Plataforma web para el comercio local.
 > - Directorio de profesionales y negocios locales y regionales.
 > - Tecnologías: | PHP | Mysql | API Rest |
 - [Plataforma Web](http://vendoguaymas.com/index.php)
-- [Aplicación Móvil]
+- [Aplicación Móvil]()
 
 ## Hangman / Ahorcado
 > - Clásico juego de Ahorcado o Hangman.
@@ -55,12 +60,19 @@
 trazar ruta y pedir un taxi.
 > - Aplicación para el taxista, la cual siempre que está activo se muestra en
 el mapa.
-> - Tecnologías: | Java | MVP | MySQL | REST API|
+> - Tecnologías: | Java | MVP | PHP | MySQL | REST API|
 - Deprecado
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 
+## FS Engineering & Consulting
+> - Empresa de ingeniería y consultoría que ofrece servicios profesionales de ciclo completo basados en los mas altos estándares nacionales e internacionales para satisfacer la total satisfacción de nuestros clientes y empresas colaboradoras.
+> - Tecnologías: | Wordpress | PHP | MySQL |
+- [Web Site](http://fs-ec.mx/inicio/)
 
-
+## SI XPRESS SA DE CV
+> - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
+> - Tecnologías: | Wordpress | PHP | MySQL |
+- [Web Site](http://sixpress.mx)
 
 
 
