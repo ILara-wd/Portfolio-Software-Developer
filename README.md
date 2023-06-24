@@ -20,5 +20,16 @@
 
 ## Donner
 > - Aplicación Tipo Delivery.
-> - Tecnologías: | Jav/Kotlin | MVVM | Share Preferences |
+> - Tecnologías: | Java/Kotlin | MVVM | Share Preferences |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.donner)
+
+## AKL Games
+> - Aplicación de multiples mini juegos.
+> - Juegos Incluidos: | Coinflip | Vikings | ExplosionEmojis | Puzzle | Wordfind | SomonSay | DotsBoxes | Tetris | Snake | Basta | Memorama | Gato | Lottery |
+- En Desarrollo
+
+
+
+
+
+
