@@ -12,3 +12,8 @@
 > - Tu objetivo es adivinar la palabra, adivina una letra a la vez para ver si está la palabra en la categoría seleccionada.
 > - Tecnologías: | Kotlin | SOLID | Clean Architecture | Jetpack Compose | Dagger Hilt | MVVM | Share Preferences |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.hangman)
+
+## Mi Mercado En Casa
+> - Aplicación para compras en mercados locales CDMX.
+> - Tecnologías: | Kotlin | SOLID | ROOM | Share Preferences |
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.ito.customer.market)
