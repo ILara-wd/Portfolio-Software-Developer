@@ -29,6 +29,7 @@
 - [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
 - [Dashboard - QA](http://certum.warriorsdev.com/login.php)
 <br>
+
 | <img src="screenshot/kabla/b8c816f8-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/e7a3b8ba-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/ed72f814-126d-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -38,6 +39,7 @@
 > - Tecnologías: | Kotlin | SOLID | Clean Architecture | Jetpack Compose | Dagger Hilt | MVVM | Share Preferences |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.hangman)
 <br>
+
 | <img src="screenshot/hangman/227d0ef0-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2beb6f36-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2864ea86-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -46,6 +48,7 @@
 > - Tecnologías: | Kotlin | SOLID | ROOM | Share Preferences |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.ito.customer.market)
 <br>
+
 | <img src="screenshot/mercado/3edcfee8-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mercado/430286b4-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mercado/46f17bb8-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -54,6 +57,7 @@
 > - Tecnologías: | Java/Kotlin | MVVM | Share Preferences |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.donner)
 <br>
+
 | <img src="screenshot/donner/9d252368-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/a5854e66-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/aa183970-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -63,6 +67,7 @@
 - En Desarrollo
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
+
 | <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
 
 ## InOut Registros
@@ -71,6 +76,7 @@
 - En Desarrollo
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
+
 | <img src="screenshot/inout/b98e7252-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/be01e13e-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/c157b9bc-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -82,6 +88,7 @@
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 - [Apple Store]()
 <br>
+
 | <img src="screenshot/nadie/e4109398-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/nadie/e0802a68-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/nadie/dcadc5e4-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -93,7 +100,8 @@ el mapa.
 > - Tecnologías: | Java | MVP | PHP | MySQL | REST API|
 - Deprecado
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
-- <br>
+<br>
+
 | <img src="screenshot/mytaxydrive/d97e3b6a-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mytaxydrive/d6214908-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mytaxydrive/d0926a80-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
