@@ -39,4 +39,21 @@
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
 > - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
 - En Desarrollo
-- 
+
+## El Pirata Nadie
+> - Es una aplicación para encontrar tesoros.
+> - Patrocinadores de la marca, regalan tesoros (Descuentos en tiendas, Artículos para Gadgets, etc.), y que los exploradores pasen un agradable fin de semana en las búsquedas del Tesoro.
+> - Tecnologías: | React Native | Node JS | MySQL | REST API|
+- Deprecado
+
+
+
+
+
+
+
+
+
+
+
+
