@@ -5,12 +5,29 @@
 > - Tecnologías: | HTML | CSS | Javascript | PHP | MySQL |
 - [Web Site](http://warriorsdev.com)
 
+## FS Engineering & Consulting
+> - Empresa de ingeniería y consultoría que ofrece servicios profesionales de ciclo completo basados en los mas altos estándares nacionales e internacionales para satisfacer la total satisfacción de nuestros clientes y empresas colaboradoras.
+> - Tecnologías: | Wordpress | PHP | MySQL |
+- [Web Site](http://fs-ec.mx/inicio/)
+
+## SI XPRESS SA DE CV
+> - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
+> - Tecnologías: | Wordpress | PHP | MySQL |
+- [Web Site](http://sixpress.mx)
+
 ## Vendo Guaymas
 > - Plataforma web para el comercio local.
 > - Directorio de profesionales y negocios locales y regionales.
 > - Tecnologías: | PHP | Mysql | API Rest |
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
+
+## Kabla / Certum
+> - Aplicación de multiples mini juegos.
+> - Tecnologías: | React Native | PHP | Mysql | API Rest |
+- [Google Play Store](https://play.google.com/store/apps/developer?id=Kabla+Diagn%C3%B3sticos)
+- [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
+- [Dashboard - QA](http://certum.warriorsdev.com/login.php)
 
 ## Hangman / Ahorcado
 > - Clásico juego de Ahorcado o Hangman.
@@ -34,13 +51,6 @@
 - En Desarrollo
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 
-## Kabla / Certum
-> - Aplicación de multiples mini juegos.
-> - Tecnologías: | React Native | PHP | Mysql | API Rest |
-- [Google Play Store](https://play.google.com/store/apps/developer?id=Kabla+Diagn%C3%B3sticos)
-- [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
-- [Dashboard - QA](http://certum.warriorsdev.com/login.php)
-
 ## InOut Registros
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
 > - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
@@ -54,7 +64,7 @@
 - Deprecado
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 - [Apple Store]()
-- 
+
 ## My Taxy - Customer/Driver
 > - Aplicación para el cliente puede ver a los taxistas activos en el mapa,
 trazar ruta y pedir un taxi.
@@ -63,19 +73,3 @@ el mapa.
 > - Tecnologías: | Java | MVP | PHP | MySQL | REST API|
 - Deprecado
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
-
-## FS Engineering & Consulting
-> - Empresa de ingeniería y consultoría que ofrece servicios profesionales de ciclo completo basados en los mas altos estándares nacionales e internacionales para satisfacer la total satisfacción de nuestros clientes y empresas colaboradoras.
-> - Tecnologías: | Wordpress | PHP | MySQL |
-- [Web Site](http://fs-ec.mx/inicio/)
-
-## SI XPRESS SA DE CV
-> - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
-> - Tecnologías: | Wordpress | PHP | MySQL |
-- [Web Site](http://sixpress.mx)
-
-
-
-
-
-
