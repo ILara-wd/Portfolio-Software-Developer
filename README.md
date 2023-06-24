@@ -28,6 +28,12 @@
 > - Juegos Incluidos: | Coinflip | Vikings | ExplosionEmojis | Puzzle | Wordfind | SomonSay | DotsBoxes | Tetris | Snake | Basta | Memorama | Gato | Lottery |
 - En Desarrollo
 
+## Kabla / Certum
+> - Aplicación de multiples mini juegos.
+> - Tecnologías: | React Native | PHP | Mysql | API Rest |
+- [Google Play Store](https://play.google.com/store/apps/developer?id=Kabla+Diagn%C3%B3sticos)
+- [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
+- [Dashboard - QA](http://certum.warriorsdev.com/login.php)
 
 
 
