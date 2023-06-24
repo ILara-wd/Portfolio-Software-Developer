@@ -4,16 +4,28 @@
 > - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
 > - Tecnologías: | HTML | CSS | Javascript | PHP | MySQL |
 - [Web Site](http://warriorsdev.com)
+<br>
+
+| <img src="screenshot/aklgames/e7e690b8-bfab-4655-ad9c-ff73ed8c7511.png"> |
+| ---------------------------------------------- |
 
 ## FS Engineering & Consulting
 > - Empresa de ingeniería y consultoría que ofrece servicios profesionales de ciclo completo basados en los mas altos estándares nacionales e internacionales para satisfacer la total satisfacción de nuestros clientes y empresas colaboradoras.
 > - Tecnologías: | Wordpress | PHP | MySQL |
 - [Web Site](http://fs-ec.mx/inicio/)
+<br>
+
+| <img src="screenshot/aklgames/f95ac670-1272-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## SI XPRESS SA DE CV
 > - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
 > - Tecnologías: | Wordpress | PHP | MySQL |
 - [Web Site](http://sixpress.mx)
+<br>
+
+| <img src="screenshot/aklgames/0bf0f83a-1274-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## Vendo Guaymas
 > - Plataforma web para el comercio local.
@@ -21,6 +33,10 @@
 > - Tecnologías: | PHP | Mysql | API Rest |
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
+<br>
+
+| <img src="screenshot/aklgames/fc95a8fa-1272-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## Kabla / Certum
 > - Aplicación de multiples mini juegos.
@@ -68,7 +84,8 @@
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
 
-| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
+| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## InOut Registros
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
