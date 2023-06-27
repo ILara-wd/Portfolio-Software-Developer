@@ -1,7 +1,7 @@
 # Portafolio - Software Developer
 
 ## WarriorsDev
-> - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
+> - Soluciones pensadas en agilizar y facilitar la manera de operar en su empresa o negocio y a un bajo costo.
 > - Tecnologías: | HTML | CSS | Javascript | PHP | MySQL |
 - [Web Site](http://warriorsdev.com)
 
