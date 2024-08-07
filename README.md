@@ -65,6 +65,7 @@
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.ito.customer.market)
 <br>
 
+- **~~Deprecado~~**
 | <img src="screenshot/mercado/3edcfee8-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mercado/430286b4-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/mercado/46f17bb8-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -74,6 +75,7 @@
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.donner)
 <br>
 
+- **~~Deprecado~~**
 | <img src="screenshot/donner/9d252368-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/a5854e66-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/aa183970-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
@@ -101,7 +103,7 @@
 > - Es una aplicación para encontrar tesoros.
 > - Patrocinadores de la marca, regalan tesoros (Descuentos en tiendas, Artículos para Gadgets, etc.), y que los exploradores pasen un agradable fin de semana en las búsquedas del Tesoro.
 > - Tecnologías: | React Native | Node JS | MySQL | REST API|
-- Deprecado
+- **~~Deprecado~~**
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 - [Apple Store]()
 <br>
@@ -115,7 +117,7 @@ trazar ruta y pedir un taxi.
 > - Aplicación para el taxista, la cual siempre que está activo se muestra en
 el mapa.
 > - Tecnologías: | Java | MVP | PHP | MySQL | REST API|
-- Deprecado
+- **~~Deprecado~~**
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
 
