@@ -51,8 +51,9 @@
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## Battle Dooz: Tres en raya
-> - El juego Simple es la variante más sencilla del Tres en raya, con una cuadrícula de tres por tres y dos jugadores. El jugador que consiga colocar tres de sus marcas en horizontal, vertical o diagonal es el ganador. El tamaño de la cuadrícula del tablero de juego varía de tres por tres a siete por siete, dificultad de la IA del juego variable (fácil, media, difícil)
-
+> - El juego Simple es la variante más sencilla del Tres en raya, con una cuadrícula de tres por tres y dos jugadores. 
+> - El jugador que consiga colocar tres de sus marcas en horizontal, vertical o diagonal es el ganador. 
+> - El tamaño de la cuadrícula del tablero de juego varía de tres por tres a siete por siete, dificultad de la IA del juego variable (fácil, media, difícil)
 > - Android: | Kotlin | SOLID | Data Store | Jetpack Compose | MVVM |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.battle.dooz)
 <br>
