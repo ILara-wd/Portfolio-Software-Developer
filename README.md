@@ -22,7 +22,7 @@
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
 
-## Xalala - Authentication / Business
+## Xalala: Authentication / Business
 > - Authentication: Registro de puntos por juego.
 > - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
 > - Android: | Kotlin | MVP | Retrofit | Module Games | Crashlytics | Authentication | Cloud Messaging |
@@ -42,7 +42,7 @@
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## Sudoku
-> - Sudoku: para los amantes de los puzzles de todos los niveles. Tanto si eres un principiante como un experto, encontrarás un sinfín de diversión y desafíos.
+> - Sudoku: Para los amantes de los puzzles de todos los niveles. Tanto si eres un principiante como un experto, encontrarás un sinfín de diversión y desafíos.
 > - Android: | Kotlin | SOLID | Data Store | Jetpack Compose | Dagger Hilt | MVVM |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.sudoku)
 <br>
@@ -50,9 +50,9 @@
 | <img src="screenshot/sudoku/screenshot_1.png"> | <img src="screenshot/sudoku/screenshot_2.png"> | <img src="screenshot/sudoku/screenshot_3.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
-## Hangman / Ahorcado
-> - Clásico juego de Ahorcado o Hangman.
-> - Tu objetivo es adivinar la palabra, adivina una letra a la vez para ver si está la palabra en la categoría seleccionada.
+## Battle Dooz: Tres en raya
+> - El juego Simple es la variante más sencilla del Tres en raya, con una cuadrícula de tres por tres y dos jugadores. El jugador que consiga colocar tres de sus marcas en horizontal, vertical o diagonal es el ganador. El tamaño de la cuadrícula del tablero de juego varía de tres por tres a siete por siete, dificultad de la IA del juego variable (fácil, media, difícil)
+
 > - Android: | Kotlin | SOLID | Data Store | Jetpack Compose | MVVM |
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.battle.dooz)
 <br>
