@@ -59,7 +59,7 @@
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
 
-| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
+| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> |
 
 ## InOut Registros
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
