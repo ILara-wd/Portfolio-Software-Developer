@@ -22,17 +22,6 @@
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
 
-## Kabla / Certum
-> - Aplicación de multiples mini juegos.
-> - Tecnologías: | React Native | PHP | Mysql | API Rest |
-- [Google Play Store](https://play.google.com/store/apps/developer?id=Kabla+Diagn%C3%B3sticos)
-- [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
-- [Dashboard - QA](http://certum.warriorsdev.com/login.php)
-<br>
-
-| <img src="screenshot/kabla/b8c816f8-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/e7a3b8ba-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/ed72f814-126d-11ee-be56-0242ac120002.png"> |
-| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
-
 ## Xalala - Authentication / Business
 > - Authentication: Registro de puntos por juego.
 > - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
@@ -63,6 +52,38 @@
 | <img src="screenshot/hangman/227d0ef0-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2beb6f36-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2864ea86-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
+## AKL Games
+> - Aplicación de multiples mini juegos.
+> - Juegos Incluidos: | Coinflip | Vikings | ExplosionEmojis | Puzzle | Wordfind | SomonSay | DotsBoxes | Tetris | Snake | Basta | Memorama | Gato | Lottery |
+- En Desarrollo
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
+<br>
+
+| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
+
+## InOut Registros
+> - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
+> - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
+- En Desarrollo
+- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
+<br>
+
+| <img src="screenshot/inout/b98e7252-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/be01e13e-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/c157b9bc-126e-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
+
+## Kabla / Certum
+> - Aplicación de multiples mini juegos.
+> - Tecnologías: | React Native | PHP | Mysql | API Rest |
+- **~~Deprecado~~**
+- [Google Play Store](https://play.google.com/store/apps/developer?id=Kabla+Diagn%C3%B3sticos)
+- [Apple Store](https://apps.apple.com/mx/app/certum/id1547320721)
+- [Dashboard - QA](http://certum.warriorsdev.com/login.php)
+<br>
+
+| <img src="screenshot/kabla/b8c816f8-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/e7a3b8ba-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/ed72f814-126d-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
 ## Mi Mercado En Casa
 > - Aplicación para compras en mercados locales CDMX.
 > - Tecnologías: | Kotlin | SOLID | ROOM | Share Preferences |
@@ -81,25 +102,6 @@
 <br>
 
 | <img src="screenshot/donner/9d252368-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/a5854e66-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/donner/aa183970-126e-11ee-be56-0242ac120002.png"> |
-| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
-
-## AKL Games
-> - Aplicación de multiples mini juegos.
-> - Juegos Incluidos: | Coinflip | Vikings | ExplosionEmojis | Puzzle | Wordfind | SomonSay | DotsBoxes | Tetris | Snake | Basta | Memorama | Gato | Lottery |
-- En Desarrollo
-- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
-<br>
-
-| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
-
-## InOut Registros
-> - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
-> - Tecnologías: | Kotlin | MVP | Share Preferences | QR Code |
-- En Desarrollo
-- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
-<br>
-
-| <img src="screenshot/inout/b98e7252-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/be01e13e-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/inout/c157b9bc-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## El Pirata Nadie
