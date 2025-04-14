@@ -25,8 +25,7 @@
 ## Xalala - Authentication / Business
 > - Authentication: Registro de puntos por juego.
 > - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
-> - Tecnologías:
-> - Mobile: | Kotlin | MVP | Retrofit | Module Games | Crashlytics | Authentication | Cloud Messaging |
+> - Android: | Kotlin | MVP | Retrofit | Module Games | Crashlytics | Authentication | Cloud Messaging |
 > - API: | PHP | MySQL | REST API | JWT |
 
 
@@ -42,14 +41,33 @@
 | <img src="screenshot/xalala/screenshot-1744615732706.png"> | <img src="screenshot/xalala/screenshot-1744615774549.png"> | <img src="screenshot/xalala/screenshot-1744615749852.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
+## Sudoku
+> - Sudoku: para los amantes de los puzzles de todos los niveles. Tanto si eres un principiante como un experto, encontrarás un sinfín de diversión y desafíos.
+> - Android: | Kotlin | SOLID | Data Store | Jetpack Compose | Dagger Hilt | MVVM |
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.sudoku)
+<br>
+
+| <img src="screenshot/sudoku/screenshot_1.png"> | <img src="screenshot/sudoku/screenshot_2.png"> | <img src="screenshot/sudoku/screenshot_3.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
 ## Hangman / Ahorcado
 > - Clásico juego de Ahorcado o Hangman.
 > - Tu objetivo es adivinar la palabra, adivina una letra a la vez para ver si está la palabra en la categoría seleccionada.
-> - Tecnologías: | Kotlin | SOLID | Clean Architecture | Jetpack Compose | Dagger Hilt | MVVM | Share Preferences |
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.hangman)
+> - Android: | Kotlin | SOLID | Data Store | Jetpack Compose | MVVM |
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.battle.dooz)
 <br>
 
-| <img src="screenshot/hangman/227d0ef0-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2beb6f36-126e-11ee-be56-0242ac120002.png"> | <img src="screenshot/hangman/2864ea86-126e-11ee-be56-0242ac120002.png"> |
+| <img src="screenshot/dooz/screenshot_1.png"> | <img src="screenshot/dooz/screenshot_2.png"> | <img src="screenshot/dooz/screenshot_3.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
+## Buscando Palabras
+> - Este juego de búsqueda de palabras hace que aprender palabras nuevas sea tan fácil y mucho más divertido. Flexiona tu cerebro, conecta las letras y desliza tu camino a través de diversos rompecabezas de palabras, mientras aumentas constantemente tu vocabulario y confianza para los desafíos que te esperan.
+> - Android: | Kotlin | SOLID | Retrofit | Dagger Hilt | MVVM | Share Preferences |
+> - API: | PHP | MySQL | REST API | JWT |
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.wordsearch)
+<br>
+
+| <img src="screenshot/word/screenshot_2.png"> | <img src="screenshot/word/screenshot_3.png"> | <img src="screenshot/word/screenshot_5.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## AKL Games
@@ -59,7 +77,7 @@
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
 
-| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> |
+| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
 
 ## InOut Registros
 > - La aplicación para el registro de entradas y salidas de empleados de limpieza, creación de códigos QR para visitas a departamentos privados.
