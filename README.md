@@ -33,6 +33,26 @@
 | <img src="screenshot/kabla/b8c816f8-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/e7a3b8ba-126d-11ee-be56-0242ac120002.png"> | <img src="screenshot/kabla/ed72f814-126d-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
+## Xalala - Authentication / Business
+> - Authentication: Registro de puntos por juego.
+> - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
+> - Tecnologías:
+> - Mobile: | Kotlin | MVP | Retrofit | Module Games | Crashlytics | Authentication | Cloud Messaging |
+> - API: | PHP | MySQL | REST API | JWT |
+
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=mx.xalala.app)
+<br>
+
+| <img src="screenshot/xalala/xalala_business_4.webp"> | <img src="screenshot/xalala/xalala_business_2.webp"> | <img src="screenshot/xalala/xalala_business_6.webp"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
+| <img src="screenshot/xalala/xalala_simple_games_6.webp"> | <img src="screenshot/xalala/xalala_simple_games_4.webp"> | <img src="screenshot/xalala/xalala_simple_games_1.webp"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
+| <img src="screenshot/xalala/screenshot-1744615732706.png"> | <img src="screenshot/xalala/screenshot-1744615774549.png"> | <img src="screenshot/xalala/screenshot-1744615749852.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+
 ## Hangman / Ahorcado
 > - Clásico juego de Ahorcado o Hangman.
 > - Tu objetivo es adivinar la palabra, adivina una letra a la vez para ver si está la palabra en la categoría seleccionada.
