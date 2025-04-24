@@ -89,7 +89,8 @@
 - [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
 <br>
 
-| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> | ---------------------------------------------- |
+| <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## Turismo Sonora
 > - Riqueza natural, cultural y lugares turísticos del Estado de Sonora .
