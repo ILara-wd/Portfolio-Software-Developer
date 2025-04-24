@@ -4,16 +4,28 @@
 > - Soluciones pensadas en agilizar y facilitar la manera de operar en su empresa o negocio y a un bajo costo.
 > - Tecnologías: | HTML | CSS | Javascript | PHP | MySQL |
 - [Web Site](http://warriorsdev.com)
+<br>
+
+| <img src="screenshot/wordpress/e7e690b8-bfab-4655-ad9c-ff73ed8c7511.png"> |
+| ---------------------------------------------- |
 
 ## FS Engineering & Consulting
 > - Empresa de ingeniería y consultoría que ofrece servicios profesionales de ciclo completo basados en los mas altos estándares nacionales e internacionales para satisfacer la total satisfacción de nuestros clientes y empresas colaboradoras.
 > - Tecnologías: | Wordpress | PHP | MySQL |
 - [Web Site](http://fs-ec.mx/inicio/)
+<br>
+
+| <img src="screenshot/wordpress/f95ac670-1272-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## SI XPRESS SA DE CV
 > - Empresa dirigida al sector industrial con prestación de servicios ampliamente calificados y venta de productos de marcas altamente reconocidas a nivel mundial.
 > - Tecnologías: | Wordpress | PHP | MySQL |
 - [Web Site](http://sixpress.mx)
+<br>
+
+| <img src="screenshot/wordpress/0bf0f83a-1274-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## Vendo Guaymas
 > - Plataforma web para el comercio local.
@@ -21,7 +33,10 @@
 > - Tecnologías: | PHP | Mysql | API Rest |
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
+<br>
 
+| <img src="screenshot/wordpress/fc95a8fa-1272-11ee-be56-0242ac120002.png"> |
+| ---------------------------------------------- |
 
 ## Poseidon: Mobile Point of Sale
 > - Consiste en un dispositivo móvil, smartphone o tableta que funciona como caja registradora o como un TPV tradicional pero inalámbrico.
@@ -38,8 +53,6 @@
 > - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
 > - Android: | Kotlin | MVP | Retrofit | Module Games | Crashlytics | Authentication | Cloud Messaging |
 > - API: | PHP | MySQL | REST API | JWT |
-
-
 - [Google Play Store](https://play.google.com/store/apps/details?id=mx.xalala.app)
 <br>
 
