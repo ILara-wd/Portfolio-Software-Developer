@@ -22,6 +22,17 @@
 - [Plataforma Web](http://vendoguaymas.com/index.php)
 - [Aplicación Móvil]()
 
+
+## Poseidon: Mobile Point of Sale
+> - Consiste en un dispositivo móvil, smartphone o tableta que funciona como caja registradora o como un TPV tradicional pero inalámbrico.
+> - Android: | Java | MVP | RX Java | RX Android | SQLite | Crashlytics |
+> - API: | PHP | MySQL | REST API |
+- [Firebase](https://console.firebase.google.com/)
+<br>
+
+| <img src="screenshot/poseidon/gif_poseidon.gif"> |
+| ------------------------------------------- |
+
 ## Xalala: Authentication / Business
 > - Authentication: Registro de puntos por juego.
 > - Business: Sistema de recompensas por negocio y registro por puntos para cambiarlo beneficios.
