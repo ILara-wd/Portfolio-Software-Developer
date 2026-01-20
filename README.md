@@ -31,7 +31,7 @@
 > - Plataforma web para el comercio local.
 > - Directorio de profesionales y negocios locales y regionales.
 > - Tecnologías: | PHP | Mysql | API Rest |
-- [Plataforma Web](http://vendoguaymas.com/index.php)
+- [Plataforma Web](http://warriorsdev.com/VendoGuaymas)
 - [Aplicación Móvil]()
 <br>
 
@@ -105,13 +105,12 @@
 | <img src="screenshot/aklgames/b21ef9a6-126e-11ee-be56-0242ac120002.png"> |
 | ---------------------------------------------- |
 
-## Turismo Sonora
+## Sonora App
 > - Riqueza natural, cultural y lugares turísticos del Estado de Sonora .
 > - El objetivo es difundir la riqueza natural, cultural e histórica del Estado de Sonora y sus lugares de interés turístico. 
 > - Por ese motivo se requiere destacar sus atractivos particulares, así como la calidad de los servicios turísticos, a partir de estrategias promocionales, a efecto de incrementar el numero de turistas.
 > - Android: | Kotlin | SOLID | Jetpack Compose | MVVM |
-- En Desarrollo
-- [Google Play Store](https://play.google.com/store/apps/dev?id=7906574083418100097)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.warriorsdev.travel.guide.sonora)
 <br>
 
 | <img src="screenshot/sonora/screenshot-1744619260568.png"> | <img src="screenshot/sonora/screenshot-1744619276202.png"> | <img src="screenshot/sonora/screenshot-1744619291881.png"> |
